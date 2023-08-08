@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #F4F4F4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+}
+.header img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.header h1 {
+    margin-top: 10px;
+    font-size: 32px;
+}
+.section {
+    margin-top: 20px;
+    border-top: 1px solid #CCC;
+    padding: 20px 0;
+}
+.section h2 {
+    font-size: 26px;
+}
+.section p, .section ul {
+    font-size: 18px;
+}
+.section ul {
+    list-style: none;
+    padding: 0;
+}
+.section ul li {
+    margin-bottom: 10px;
+}
